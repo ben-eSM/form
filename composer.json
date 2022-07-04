@@ -1,5 +1,5 @@
 {
-    "name":"ben-eSM/form",
+    "name":"ben-esm/form",
     "description":"Contao form templates for Bootstrap 4",
     "keywords":["bootstrap", "form", "contao"],
     "type":"contao-bundle",
